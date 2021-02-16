@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEEE754FormatTask", "IEEE754FormatTask\IEEE754FormatTask.csproj", "{41DED226-F265-413B-A788-4F33694EB5D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEEE754FormatTask.Tests", "IEEE754FormatTask.Tests\IEEE754FormatTask.Tests.csproj", "{C5459A12-9227-4265-B726-94AB520EA775}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9923F97B-528C-41B1-9C0D-AFF6F63953BC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41DED226-F265-413B-A788-4F33694EB5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DED226-F265-413B-A788-4F33694EB5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DED226-F265-413B-A788-4F33694EB5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DED226-F265-413B-A788-4F33694EB5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5459A12-9227-4265-B726-94AB520EA775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5459A12-9227-4265-B726-94AB520EA775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5459A12-9227-4265-B726-94AB520EA775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5459A12-9227-4265-B726-94AB520EA775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0417E145-BB78-46B6-987F-7F61D9F71F56}
+	EndGlobalSection
+EndGlobal
